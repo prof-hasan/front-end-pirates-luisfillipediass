@@ -1,0 +1,54 @@
+h1 {
+    color: blue;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    margin-top: 0%;
+}
+
+body {
+    background-image: url(imgs/fundo-da-ilha-pirata.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    text-align: center;
+    margin: 0% 25%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+p {
+    text-align: center;
+    background-color: gainsboro;
+}
+
+html,
+body {
+    min-height: 100%;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    background-color: white;
+    border-radius: 1px;
+    border: 1px solid black;
+
+}
+tfoot{
+    background-color: greenyellow;
+}
+thead{
+    background-color: aquamarine;
+}
+
+caption {
+    background-color: gainsboro;
+    font-size: 75%
+}
+
+td,th {
+    padding: 3px 10px;
+    border: 1px solid black;
+
+}
